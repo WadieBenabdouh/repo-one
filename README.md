@@ -30,8 +30,6 @@ Users should be able to:
 - Solution URL: [GitHub repository](https://github.com/WadieBenabdouh/repo-one)
 - Live Site URL: [Live preview](https://wadiebenabdouh.github.io/repo-one/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup.
