@@ -99,6 +99,7 @@ footer .wrapper{
         justify-content: center;
         align-items: center;
         margin-inline: 50px;
+        margin-top: 3rem;
     }
     .description .button{
         padding: 5px 60px;
