@@ -71,6 +71,11 @@ footer .wrapper{
 
 /* MEDIA QUERY */
 @media (max-width:768px) {
+    /* BODY */
+    body{
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
     /* HEADER */
     header #logo{
         margin: 25px;
